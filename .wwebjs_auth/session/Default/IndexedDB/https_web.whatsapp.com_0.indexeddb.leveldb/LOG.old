@@ -1,0 +1,49 @@
+2023/07/06-09:00:30.835 1698 Reusing MANIFEST C:\Users\User\Desktop\bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/06-09:00:30.837 1698 Recovering log #249
+2023/07/06-09:00:30.858 1698 Reusing old log C:\Users\User\Desktop\bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000249.log 
+2023/07/06-09:01:21.282 1698 Level-0 table #258: started
+2023/07/06-09:01:21.740 1698 Level-0 table #258: 1383676 bytes OK
+2023/07/06-09:01:21.791 1698 Delete type=0 #249
+2023/07/06-09:01:22.717 2d3c Compacting 1@1 + 4@2 files
+2023/07/06-09:01:23.616 2d3c Generated table #259@1: 84000 keys, 2231637 bytes
+2023/07/06-09:01:24.287 2d3c Generated table #260@1: 47617 keys, 2510779 bytes
+2023/07/06-09:01:24.576 2d3c Generated table #261@1: 7240 keys, 2154486 bytes
+2023/07/06-09:01:25.271 2d3c Generated table #262@1: 25075 keys, 2227508 bytes
+2023/07/06-09:01:25.545 2d3c Generated table #263@1: 1501 keys, 397298 bytes
+2023/07/06-09:01:25.545 2d3c Compacted 1@1 + 4@2 files => 9521708 bytes
+2023/07/06-09:01:25.624 2d3c compacted to: files[ 0 0 6 0 0 0 0 ]
+2023/07/06-09:02:44.479 1698 Level-0 table #265: started
+2023/07/06-09:02:44.765 1698 Level-0 table #265: 1326644 bytes OK
+2023/07/06-09:02:44.777 1698 Delete type=2 #251
+2023/07/06-09:02:44.781 1698 Delete type=2 #252
+2023/07/06-09:02:44.781 1698 Delete type=2 #253
+2023/07/06-09:02:44.783 1698 Delete type=2 #254
+2023/07/06-09:02:44.783 1698 Delete type=0 #257
+2023/07/06-09:02:44.784 1698 Delete type=2 #258
+2023/07/06-09:02:45.075 2d3c Compacting 1@1 + 6@2 files
+2023/07/06-09:02:46.802 2d3c Generated table #266@1: 84490 keys, 2233239 bytes
+2023/07/06-09:02:47.583 2d3c Generated table #267@1: 47875 keys, 2514504 bytes
+2023/07/06-09:02:47.897 2d3c Generated table #268@1: 7591 keys, 2156152 bytes
+2023/07/06-09:02:48.381 2d3c Generated table #269@1: 24734 keys, 2225056 bytes
+2023/07/06-09:02:48.976 2d3c Generated table #270@1: 83791 keys, 2136327 bytes
+2023/07/06-09:02:48.977 2d3c Compacted 1@1 + 6@2 files => 11265278 bytes
+2023/07/06-09:02:49.055 2d3c compacted to: files[ 0 0 5 0 0 0 0 ]
+2023/07/06-09:02:49.056 2d3c Delete type=2 #255
+2023/07/06-09:02:49.056 2d3c Delete type=2 #259
+2023/07/06-09:02:49.057 2d3c Delete type=2 #260
+2023/07/06-09:02:49.057 2d3c Delete type=2 #261
+2023/07/06-09:02:49.057 2d3c Delete type=2 #262
+2023/07/06-09:02:49.057 2d3c Delete type=2 #263
+2023/07/06-09:02:49.057 2d3c Delete type=2 #265
+2023/07/06-09:05:19.895 2570 Level-0 table #272: started
+2023/07/06-09:05:20.075 2570 Level-0 table #272: 1565959 bytes OK
+2023/07/06-09:05:20.082 2570 Delete type=0 #264
+2023/07/06-09:05:22.674 2d3c Compacting 1@1 + 5@2 files
+2023/07/06-09:05:23.194 2d3c Generated table #273@1: 84517 keys, 2233185 bytes
+2023/07/06-09:05:23.544 2d3c Generated table #274@1: 47749 keys, 2531300 bytes
+2023/07/06-09:05:23.734 2d3c Generated table #275@1: 9255 keys, 2158414 bytes
+2023/07/06-09:05:24.039 2d3c Generated table #276@1: 24628 keys, 2225238 bytes
+2023/07/06-09:05:24.516 2d3c Generated table #277@1: 83000 keys, 2228793 bytes
+2023/07/06-09:05:24.539 2d3c Generated table #278@1: 1975 keys, 54862 bytes
+2023/07/06-09:05:24.539 2d3c Compacted 1@1 + 5@2 files => 11431792 bytes
+2023/07/06-09:05:24.545 2d3c compacted to: files[ 0 0 6 0 0 0 0 ]
